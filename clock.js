@@ -1,4 +1,4 @@
 function logTime(date) {
-    console.log("The time is ".concat(date.toLocaleTimeString()));
+    console.log(`The time is ${date.toLocaleTimeString()}`);
 }
 logTime(new Date());
