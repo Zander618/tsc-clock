@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Zander618/tsc-clock#readme",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
     "typescript": "^5.1.3"
   }
 }
